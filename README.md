@@ -2,8 +2,6 @@
 
 ![Demonstração da Calculadora](demo.png)
 
-> Uma calculadora funcional feita em Java com interface gráfica (Swing), desenvolvida para estudo e portfólio. Ideal para iniciantes que desejam entender lógica de programação, tratamento de erros e criação de interfaces visuais.
-
 ---
 
 ## 🚀 Funcionalidades
